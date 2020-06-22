@@ -1,6 +1,10 @@
 package com.thisisjava.book2;
 
-/* beep음을 발생시키면서 동시에 프린팅 하기 */
+/*
+ beep음을 발생시키면서 동시에 프린팅 하기
+ - 단, 원자적으로 이뤄지는 일은 아니다.
+ - 그저 시간을 적절히 맞췄을 뿐.
+ */
 
 import java.awt.*;
 

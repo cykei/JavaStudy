@@ -2,6 +2,8 @@ package com.thisisjava.book2;
 
 /*
 우선순위는 1이 제일 낮고, 10이 제일 높다.
+대체적으로 "thread10"의 우선순위가 높아서 일찍 끝나긴 하는데..
+항상 그런건 아니다.
  */
 
 class CalcThread extends Thread {
