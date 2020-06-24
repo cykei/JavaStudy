@@ -1,4 +1,4 @@
-package com.thisisjava.book2;
+package com.thisisjava.book2.thread;
 
 /*
 우선순위는 1이 제일 낮고, 10이 제일 높다.

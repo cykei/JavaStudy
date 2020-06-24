@@ -1,4 +1,4 @@
-package com.thisisjava.book2;
+package com.thisisjava.book2.thread;
 
 /* Runnable 익명 객체를 이용 해서 beep음을 발생시키면서 동시에 프린팅 하기 */
 

@@ -1,4 +1,4 @@
-package com.thisisjava.book2;
+package com.thisisjava.book2.thread;
 
 /*
  beep음을 발생시키면서 동시에 프린팅 하기

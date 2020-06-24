@@ -1,4 +1,4 @@
-package com.thisisjava.book2;
+package com.thisisjava.book2.thread;
 
 /*
 메인 스레드만 사용하는 경우

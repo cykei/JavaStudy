@@ -1,4 +1,4 @@
-package com.thisisjava.book2;
+package com.thisisjava.book2.thread;
 
 /* Thread 하위 클래스로부터 생성 */
 
