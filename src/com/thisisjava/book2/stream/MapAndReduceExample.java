@@ -24,21 +24,3 @@ public class MapAndReduceExample {
         System.out.println("평균 점수: "+avg);
     }
 }
-
-class Student{
-    private String name;
-    private int score;
-
-    public Student(String name, int score) {
-        this.name = name;
-        this.score = score;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public int getScore() {
-        return score;
-    }
-}
